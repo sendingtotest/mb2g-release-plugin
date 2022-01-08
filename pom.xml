@@ -32,9 +32,9 @@
     </dependencies>
 
     <scm>
-        <developerConnection>scm:git:https://github.com/springframeworkguru/mb2g-release-plugin.git</developerConnection>
-        <url>https://github.com/springframeworkguru/mb2g-release-plugin</url>
-        <tag>mb2g-release-plugin-1.1</tag>
+        <developerConnection>scm:git:https://github.com/sendingtotest/mb2g-release-plugin.git</developerConnection>
+        <url>https://github.com/sendingtotest/mb2g-release-plugin.git</url>
+        <tag>mb2g-release-plugin-1.2</tag>
     </scm>
 
     <build>
